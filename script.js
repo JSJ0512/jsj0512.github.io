@@ -10,7 +10,6 @@ links.forEach(link => {
   });
 });
 
-// 소개 타이핑 효과
 const text = "W E L C O M E !";
 const typingTarget = document.getElementById("typing");
 
@@ -34,3 +33,4 @@ setInterval(function () {
     }
   }
 }, 200);
+
